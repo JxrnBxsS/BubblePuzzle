@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/destroySound.wav</SourceFile>
+  <SourceTime>2025-02-23T12:43:51.697938+07:00</SourceTime>
+  <DestFile>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/Content/destroySound.xnb</DestFile>
+  <DestTime>2025-02-23T13:09:19.8424818+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T18:44:56+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T18:44:56+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

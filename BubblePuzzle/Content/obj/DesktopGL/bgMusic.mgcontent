@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bgMusic.mp3</SourceFile>
+  <SourceTime>2025-02-23T13:06:14.9611144+07:00</SourceTime>
+  <DestFile>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/bgMusic.xnb</DestFile>
+  <DestTime>2025-02-23T13:09:11.9211553+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T18:44:56+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T18:44:56+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/bgMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
